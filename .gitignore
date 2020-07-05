@@ -1,0 +1,6 @@
+sorter/*.dat
+sorter/*.txt
+sorter/pkg/
+sorter/bin/
+sorter/src/*dat
+
